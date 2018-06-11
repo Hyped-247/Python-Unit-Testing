@@ -1,0 +1,5 @@
+Easy: it is a test that ensures that the program runs correctly given the correct input information.
+
+Medium: it is a test that ensures that the program runs correctly given the wrong input information.
+
+Hard: it is a test that ensures that the program runs correctly given any kind of input.
