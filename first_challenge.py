@@ -6,7 +6,8 @@ import unittest
 class TestAvg(unittest.TestCase):
 
     def test_easy(self):
-        print(first.avg(10, 10, 10, 10, 10))
+       # print(avg(10, 10, 10, 10, 10))
+        pass
 
     def test_medium(self):
         pass
@@ -16,7 +17,6 @@ class TestAvg(unittest.TestCase):
 
 
 if __name__ == '__main__':
-    import first
     unittest.main()
 
 

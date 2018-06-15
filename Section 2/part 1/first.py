@@ -8,9 +8,7 @@ Ex. print(avg(1, 2, 3, 43))
 
 
 def avg(*list_num):
-	total = 0
-	for num in list_num:
-		total += num
-	return total / len(list_num)
-
-
+    total = 0
+    for num in list_num:
+        total += num
+    return total / len(list_num)
